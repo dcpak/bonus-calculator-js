@@ -1,5 +1,5 @@
 const bonusCalculator = require('./bonus-calculator');
-const bonusCalculator = require('./team-bonus-calculator');
+const teamBonusCalculator = require('./team-bonus-calculator');
 
 describe('Bonus calculation', function () {
 
